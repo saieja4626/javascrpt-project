@@ -27,4 +27,5 @@ A fun and interactive memory-based game inspired by the classic **Simon Says**. 
 
 1. Clone the repository:
    ```bash
-   https://github.com/saieja4626/javascrpt-project.git
+   https://github.com/saieja4626/simon-says-game.git
+
